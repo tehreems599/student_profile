@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.photo{
+    box-sizing: border-box;
+    border: 2px solid black;
+    height: 250px;
+    width: 250px;
+   
+    
+}
+.container-fluid{
+    box-sizing: border-box;
+    border: 2px solid black;
+   
+}
+.container-dep{
+    box-sizing: border-box;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.container-skills{
+    box-sizing: border-box;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    
+
+}
+
+.skills{
+    box-sizing: border-box;
+    border: 2px solid black;
+    text-align: center;
+
+}
